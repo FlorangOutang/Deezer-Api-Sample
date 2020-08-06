@@ -3,7 +3,7 @@
 ## Purpose
 Demonstrate that we can't make the google connection on Deezer works using the Deezer API.
 
-## How to reporduce the issue
+## How to reproduce the issue
 We have followed the instructions of the Deezer api here : https://developers.deezer.com/api/oauth
 
 The flow is the following :
